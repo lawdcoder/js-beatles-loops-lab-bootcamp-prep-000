@@ -9,5 +9,6 @@ function theBeatlesPlay(musician, instrument)
     vararry[i]=empty;
     
   }
+  return vararry
   
 }
