@@ -6,6 +6,7 @@ function theBeatlesPlay(musician, instrument)
   for(var i=0; i<musician.length; i++)
   {
     var empty = '${musician[i]} Plays ${instrument[i]}';
+    vararry[i]=empty;
     
   }
   
